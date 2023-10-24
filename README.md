@@ -1,4 +1,4 @@
-<img alt="cverphoto" width="100%" src="![c24d4023-0450-4b05-bfe8-fa65048fe38e-transformed](https://github.com/Nickroy12/Nickroy12/assets/83406410/15edbfa6-044e-4444-97d9-a27a351f37d4)
+<img alt="cverphoto" width="100%" src="![[c24d4023-0450-4b05-bfe8-fa65048fe38e-transformed](https://github.com/Nickroy12/Nickroy12/assets/83406410/15edbfa6-044e-4444-97d9-a27a351f37d4)](https://raw.githubusercontent.com/Nickroy12/Nickroy12/main/c24d4023-0450-4b05-bfe8-fa65048fe38e-transformed.png)
 ">
 <h1 align="center">Hi 👋, I'm Nick Roy</h1>
 <h3 align="center">A passionate web designer from Bangladesh</h3>

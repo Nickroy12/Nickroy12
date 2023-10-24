@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **nroy08232@gmail.com**
 
-- ⚡ Fun fact **I AM TO FUNNY😎**
+- ⚡ Fun fact **I AM TO SERIOUS ABOUT MY PESSION BUT NOT SERIOUS ABOUT MY LIFE😎**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

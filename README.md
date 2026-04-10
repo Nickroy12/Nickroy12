@@ -6,15 +6,21 @@
 </p>
 
 ---
-
 ### 🌱 Currently Learning
-- React.js  
-- Next.js  
-- Node.js  
-- Express.js  
-- MongoDB  
 
----
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      ⚛️ React.js <br/>
+      ⚡ Next.js <br/>
+      🟢 Node.js
+    </td>
+    <td align="center" width="50%">
+      🚀 Express.js <br/>
+      🍃 MongoDB
+    </td>
+  </tr>
+</table>
 
 ### 👨‍💻 My Projects
 🔗 <a href="https://github.com/Nickroy12" target="_blank">Visit My GitHub</a>

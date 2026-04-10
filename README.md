@@ -6,24 +6,14 @@
 </p>
 
 ---
-### 🌱 Currently Learning
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      ⚛️ React.js <br/>
-      ⚡ Next.js <br/>
-      🟢 Node.js
-    </td>
-    <td align="center" width="50%">
-      🚀 Express.js <br/>
-      🍃 MongoDB
-    </td>
-  </tr>
-</table>
 
-### 👨‍💻 My Projects
-🔗 <a href="https://github.com/Nickroy12" target="_blank">Visit My GitHub</a>
+
+
+  <div align="end">
+    <img src="" width="800" />
+  </div>
+
 
 ---
 
@@ -35,14 +25,7 @@
 ### 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=html,tailwindcss,react,next,nodejs,express,mongodb" />
 </p>
 
 ---

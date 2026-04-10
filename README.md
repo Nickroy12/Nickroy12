@@ -1,3 +1,4 @@
+<img src="code.jpg" alt="javascript" /> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
 <h1 align="center">Hi 👋, I'm Nick roy</h1>
 <h3 align="center">A proffesional Web Developer From Bangladesh .... Highly interested to explore MERN Dev Sector</h3>
 
@@ -8,7 +9,7 @@
 
 - 📫 How to reach me **nroy08232@gmail.com**
 
-<img src="code.jpg" alt="javascript" /> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+
 <p align="left">
 
 

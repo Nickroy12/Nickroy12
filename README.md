@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **nroy08232@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<img src="code.jpg" alt="javascript" /> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
 <p align="left">
 
 

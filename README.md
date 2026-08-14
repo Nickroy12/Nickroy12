@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nick Roy</h1>
-<h3 align="center">🚀 Passionate Web Developer from Bangladesh</h3>
+<h3 align="center">🚀 Passionate MERN STACK Developer from Bangladesh</h3>
 
 <p >
   <img src="code.jpg" alt="profile image"  />

@@ -43,4 +43,4 @@
 
 
 ## ⚡ Fun Fact
-I enjoy building real-world projects and turning ideas into code 🚀
+I enjoy building real-world projects and turning ideas into code         🚀

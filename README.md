@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nick Roy</h1>
+<h1 align="center">Hi 👋, I'm Nick Chandra Roy</h1>
 <h3 align="center">🚀 Passionate MERN STACK Developer from Bangladesh</h3>
 
 <p >
